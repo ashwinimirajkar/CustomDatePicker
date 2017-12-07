@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <!-- "search corners" -->
+    <item>
+        <shape>
+            <solid android:color="#00999999" />
+            <corners android:radius="10dp" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <padding
+                android:bottom="3px"
+                android:left="3px"
+                android:right="3px"
+                android:top="3px" />
+            <solid android:color="#00999999" />
+            <corners
+                android:radius="10dp"/>
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <padding
+                android:bottom="5px"
+                android:left="5px"
+                android:right="5px"
+                android:top="5px" />
+            <solid android:color="#00999999" />
+            <corners android:radius="10dp" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <padding
+                android:bottom="6px"
+                android:left="6px"
+                android:right="6px"
+                android:top="6px" />
+            <solid android:color="#00999999" />
+            <corners android:radius="10dp" />
+        </shape>
+    </item>
+
+    <item>
+        <shape android:shape="rectangle" >
+            <corners android:radius="10dp" />
+            <stroke android:width="0.5dp"
+                android:color="#E665696c" />
+            <padding
+                android:left="8px"
+                android:top="8px"
+                android:right="8px"
+                android:bottom="8px">
+            </padding>
+            <solid android:color="#e8e8e8"> </solid>
+        </shape>
+    </item>
+
+</layer-list>

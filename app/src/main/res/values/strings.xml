@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CustomDatePicker</string>
+    <string name="fa_times">&#xf00d;</string>
+</resources>
