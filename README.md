@@ -2,4 +2,4 @@
 
 ## Screenshot
 
-![Alt text](screenshot.gif?raw=true)
+![Alt text](screenshot.jpg?raw=true)
